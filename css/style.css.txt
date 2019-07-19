@@ -1,4 +1,4 @@
- /* BASE (Initital Setup)
+/* BASE (Initital Setup)
 =====================================
   #BODY RESET
   #BASE TYPOGRAPHY
