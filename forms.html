@@ -56,6 +56,30 @@
             <script
                 type="text/javascript"> var z1j7vkq70nek0lk; (function (d, t) { var s = d.createElement(t), options = { 'userName': 'iwebstudent07', 'formHash': 'z1j7vkq70nek0lk', 'autoResize': true, 'height': '1126', 'async': true, 'host': 'wufoo.com', 'header': 'show', 'ssl': true }; s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function () { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { z1j7vkq70nek0lk = new WufooForm(); z1j7vkq70nek0lk.initialize(options); z1j7vkq70nek0lk.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); </script>
         </section>
+
+        <section>
+        <form name="contact" method="POST" data-netlify="true">
+            <p>
+              <label>Your Name: <input type="text" name="name" /></label>   
+            </p>
+            <p>
+              <label>Your Email: <input type="email" name="email" /></label>
+            </p>
+            <p>
+              <label>Your Role: <select name="role[]" multiple>
+                <option value="leader">Leader</option>
+                <option value="follower">Follower</option>
+              </select></label>
+            </p>
+            <p>
+              <label>Message: <textarea name="message"></textarea></label>
+            </p>
+            <p>
+              <button type="submit">Send</button>
+            </p>
+          </form>
+        </section>
+
     </main>
 
     <footer>
