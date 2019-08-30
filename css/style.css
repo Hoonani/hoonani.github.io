@@ -109,7 +109,6 @@ nav a {
     content: "\2630";
     font-size: 1.5em;
     color: #0E98BE;  
-    /* color: yellow; */
     display: block;
     margin-left: .5em;
     transition: .2s all ease-out;
