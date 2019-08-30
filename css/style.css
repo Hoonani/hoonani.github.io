@@ -17,24 +17,24 @@
 body {
     margin:0;
     padding:0;
-    background: #061E3E;
+    background: #939594;
     font-family: 'Quicksand', sans-serif;
 }
 
 a {
     text-decoration: none;
-    color: #0E98BE;
+    color: rgb(138, 86, 44);
 }
 
 /* HEADER */
 header {
-    background: #061E3E;
+    background: #939594;
     padding: 1em 2em;
     font-family: 'Unica One', cursive;
 }
 
 header a {
-    color: #0E98BE;
+    color: rgb(138, 86, 44);
 }
 
 header {
@@ -193,7 +193,7 @@ nav a {
 
 /* FOOTER */
 footer {
-    border-top: 1px solid #0E98BE;
+    border-top: 1px solid rgb(138, 86, 44);
     max-width: 1000px;
     margin: 0 auto;
 }
@@ -217,11 +217,11 @@ section {
 .blog-archives {
     max-width: 600px;
     margin: 0 auto;
-    color: #A1FFF3;
+    color: rgb(138, 86, 44);
 }
 
 .blog-entry {
-    border: 1px solid #21EEFF;
+    border: 1px solid rgb(138, 86, 44);
     padding: 2em;
     margin: 2em 0;
 }
@@ -229,7 +229,7 @@ section {
 .date {
     opacity: .5;
     font-size: .8em;
-    color: #21EEFF;
+    color: rgb(138, 86, 44);
 }
 /* HERO */
 .hero {
@@ -263,13 +263,13 @@ section {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: 1em;
-    color: #A1FFF3;
+    color: rgb(138, 86, 44);
 }
 /* #HEADINGS */
 h1 {
     font-size: 3em;
     font-family: 'Notable', sans-serif;
-    color: #0E98BE;
+    color: rgb(138, 86, 44);
 }
 
 @media (max-width:767px) {
@@ -282,22 +282,22 @@ h2 {
     margin: .5em 0;
     font-size: 1em;
     font-family: 'Poiret One', cursive;
-    color: rgb(134, 229, 255);
+    color: rgb(138, 86, 44);
 }
 
 h3 {
-    color: rgb(134, 229, 255);   
+    color: rgb(138, 86, 44);   
 }
 
 /* #PARAGRAPHS */
         p {
             margin: 0 0 .5em 0;
-            color: rgb(92, 206, 238);
+            color: rgb(138, 86, 44);
         }
 
         li{
             text-align: left;
-            color: rgb(92, 206, 238);
+            color: rgb(138, 86, 44);
         }
 .gallery {
     max-width: 1000px;
