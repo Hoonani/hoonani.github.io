@@ -100,7 +100,7 @@ nav a {
     position: absolute;
 }
 
-.navicon::selection {
+.navicon ::selection {
     /* color: #0E98BE; */
 }
 
@@ -236,7 +236,7 @@ section {
     display: grid;
     align-content: center;
     text-align: center;
-    background-image: url(../images/20.jpg);
+    background-image: url(../images/17.jpg);
     background-size: cover;
     background-position: center center;
     min-height: 50vh;
