@@ -100,15 +100,14 @@ nav a {
     position: absolute;
 }
 
-.navicon ::selection {
+/*.navicon ::selection {
     /* color: #0E98BE; */
-}
 
 .navicon:after {
     cursor: pointer;
     content: "\2630";
     font-size: 1.5em;
-    color: #0E98BE;  
+    color: rgb(167, 212, 224);  
     display: block;
     margin-left: .5em;
     transition: .2s all ease-out;
@@ -137,7 +136,7 @@ nav a {
 .hamburger::before {
     display: block;
     content: "";
-    border-top: 3px solid #0E98BE;
+    border-top: 3px solid rgb(167, 212, 224);
     width: 20px;
     height: 2px;
     margin: -6px 0 7px 0;
@@ -145,7 +144,7 @@ nav a {
 .hamburger::after {
     display: block;
     content: "";
-    border-top: 3px solid #0E98BE;
+    border-top: 3px solid rgb(167, 212, 224);
     width: 20px;
     height: 2px;
 }
