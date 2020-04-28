@@ -244,6 +244,11 @@ section {
     margin: 2em 0;
 }
 
+.title {
+    font-size: 2em;
+    color: rgb(138, 86, 44);
+}
+
 /* HERO */
 .hero {
     display: grid;
