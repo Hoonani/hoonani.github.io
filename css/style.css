@@ -230,6 +230,20 @@ section {
     font-size: .8em;
     color: rgb(138, 86, 44);
 }
+
+/* BOOK Archives */
+.booklist-archives {
+    max-width: 600px;
+    margin: 0 auto;
+    color: rgb(138, 86, 44);
+}
+
+.booklist-entry {
+    border: 1px solid rgb(138, 86, 44);
+    padding: 2em;
+    margin: 2em 0;
+}
+
 /* HERO */
 .hero {
     display: grid;
