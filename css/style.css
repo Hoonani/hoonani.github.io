@@ -236,18 +236,18 @@ section {
 .booklist-archives {
     max-width: 600px;
     margin: 0 auto;
-    color: rgb(138, 86, 44);
+    color: #EAE3EA;
 }
 
 .booklist-entry {
-    border: 1px solid rgb(138, 86, 44);
+    border: 1px solid #EAE3EA;
     padding: 2em;
     margin: 2em 0;
 }
 
 .title {
     font-size: 2em;
-    color: rgb(0, 135, 145);
+    color: #B4DBC0;
 }
 
 /* HERO */
@@ -255,7 +255,7 @@ section {
     display: grid;
     align-content: center;
     text-align: center;
-    background-image: url(../images/bg.jpg);
+    background-color: #B4DBC0;
     background-size: cover;
     background-position: center center;
     min-height: 50vh;
@@ -282,13 +282,13 @@ section {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: 1em;
-    color: rgb(138, 86, 44);
+    color: #B56357;
 }
 /* #HEADINGS */
 h1 {
     font-size: 3em;
     font-family: 'Notable', sans-serif;
-    color: rgb(0, 135, 145);
+    color: #B4DBC0;
 }
 
 @media (max-width:767px) {
@@ -301,22 +301,22 @@ h2 {
     margin: .5em 0;
     font-size: 1em;
     font-family: 'Poiret One', cursive;
-    color: rgb(138, 86, 44);
+    color: #EAE3EA;
 }
 
 h3 {
-    color: rgb(138, 86, 44);   
+    color: #B4DBC0;   
 }
 
 /* #PARAGRAPHS */
         p {
             margin: 0 0 .5em 0;
-            color: rgb(138, 86, 44);
+            color: #B56357;
         }
 
         li{
             text-align: left;
-            color: rgb(138, 86, 44);
+            color: #B56357;
         }
 .gallery {
     max-width: 1000px;
